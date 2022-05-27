@@ -10,7 +10,7 @@
 
 
 ## General Information
-- Data Sturcuture implemented in bothpython and c++ .
+- Data Sturcuture implemented in both python and c++ .
 - Implementation of Search Algorithms 
 - Implementation of QuickSort Algorithm
 - Implementation of Knapsack Algorithm
